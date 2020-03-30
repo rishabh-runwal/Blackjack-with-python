@@ -6,6 +6,14 @@ But even for the casual participant who plays a reasonably good game, the casino
 
 In casino play, the dealer remains standing, and the players are seated. The dealer is in charge of running all aspects of the game, from shuffling and dealing the cards to handling all bets.
 
+## Game Features
+- Text based multi-player or single-player modes
+- Option for Double-down when player has 2 cards
+- 2.5 times payoff for Player upon Blackjack(b) If the player busted, she lost her bet.
+- if player wins(otherthan Blackjack) The player receives twice the amount bet wins.
+- If the value of the two hands is equal, it is a push and the player gets back her bet money. That is, no profit no loss.
+- Tracks results of chips
+- Game ends when any of the players are out of money or on demand
 ## Implementation
 This famous card game can be quite well implemented using a simple text based script, coded in Python 3.
 ### Objective of the game
