@@ -43,4 +43,4 @@ Before the deal begins, each player places a bet, in chips, in front of them in 
  Another option open to the player is doubling his bet when the original two cards dealt total 9, 10, or 11. When the player's turn comes, he places a bet equal to the original bet, and the dealer gives him just one card, which is placed face down and is not turned up until the bets are settled at the end of the hand. With two fives, the player may split a pair, double down, or just play the hand in the regular way. Note that the dealer does not have the option of splitting or doubling down.
 
 
-- See more at: http://www.bicyclecards.com/how-to-play/blackjack/#sthash.JBVMjJeE.dpuf
+- More information can be viewed at: [Rules of Blackjack](http://www.bicyclecards.com/how-to-play/blackjack/#sthash.JBVMjJeE.dpuf)
